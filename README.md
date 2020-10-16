@@ -17,5 +17,3 @@
   * Folder [./ANALYSIS] contains script files to compute various statistics.
     * File compute_mse.py computes the normalized MSE. 
     * File wta_robins_glm.py runs MSM and computes normalized MSE.
-
-
