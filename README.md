@@ -1,4 +1,6 @@
-## Weighted Tensor Completion for Time-Series Causal Inference
+## Tensorized_MSM
+
+This repository maintains the code for the paper [Weighted Tensor Completion for Time-Series Causal Inference](https://arxiv.org/abs/1902.04646).
 
 * Terminology
   * We have two kinds of worlds -- thin and fat. They respectively refer to the worlds narrow and wide in the paper.
